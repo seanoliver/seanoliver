@@ -17,7 +17,27 @@ I've also built some end-to-end apps in various technologies:
 
 ### Languages and Tools:
 
-![TypeScript](/images/typescript.svg) ![JavaScript](/images/javascript.svg) ![Python](/images/python.svg) ![React](/images/react.svg) ![Node.js](/images/nodejs.svg) ![Next.js](/images/nextjs.svg) ![Flask](/images/flask.svg) ![Docker](/images/docker.svg) ![Supabase](/images/supabase.svg) ![PostgreSQL](/images/postgresql.svg) ![Tailwind CSS](/images/tailwindcss.svg) ![Express](/images/express.svg) ![Electron](/images/electron.svg) ![Axios](/images/axios.svg) ![Jest](/images/jest.svg) ![Vercel](/images/vercel.svg) ![Render](/images/render.svg)
+![TypeScript](/images/typescript.svg)
+![JavaScript](/images/javascript.svg)
+![Python](/images/python.svg)
+![React](/images/react.svg)
+![Node.js](/images/nodejs.svg)
+![Next.js](/images/nextjs.svg)
+![Flask](/images/flask.svg)
+![Docker](/images/docker.svg)
+![Supabase](/images/supabase.svg)
+![PostgreSQL](/images/postgresql.svg)
+![Tailwind CSS](/images/tailwindcss.svg)
+![Express](/images/express.svg)
+![Electron](/images/electron.svg)
+![Axios](/images/axios.svg)
+![Jest](/images/jest.svg)
+![Vercel](/images/vercel.svg)
+![Render](/images/render.svg)
+
+[<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>][typescript]
+[<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"/>][github]
+
 
 <br />
 <br />
