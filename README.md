@@ -34,6 +34,7 @@ I've also built some end-to-end apps in various technologies:
 ![Jest](/images/jest.svg)
 ![Vercel](/images/vercel.svg)
 ![Render](/images/render.svg)
+![Warp] (/images/warp.svg)
 
 [<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>][typescript]
 [<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"/>][github]
