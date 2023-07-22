@@ -21,8 +21,8 @@ I've also built some end-to-end apps in various technologies:
 ![JavaScript](/images/javascript.svg)
 ![Python](/images/python.svg)
 ![React](/images/react.svg)
-![Node.js](/images/nodejs.svg)
-![Next.js](/images/nextjs.svg)
+![Node.js](/images/nodedotjs.svg)
+![Next.js](/images/nextdotjs.svg)
 ![Flask](/images/flask.svg)
 ![Docker](/images/docker.svg)
 ![Supabase](/images/supabase.svg)
@@ -34,11 +34,8 @@ I've also built some end-to-end apps in various technologies:
 ![Jest](/images/jest.svg)
 ![Vercel](/images/vercel.svg)
 ![Render](/images/render.svg)
-![Warp] (/images/warp.svg)
-
-[<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>][typescript]
-[<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"/>][github]
-
+![Warp](/images/warp.svg)
+![VS Code](/images/visualstudiocode.svg)
 
 <br />
 <br />
