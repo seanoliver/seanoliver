@@ -4,6 +4,8 @@ I'm a Software Engineer with a background in Marketing. I've been in the tech in
 
 I'm passionate about building software that helps people and makes a difference in the world. I think AI has the potential to change the world for the better and I'm excited to be a part of that change.
 
+Check out my 📫 [newsletter](https://newsletter.seanoliver.dev/) about my coding journey and my 🤩 [portfolio](https://seanoliver.dev/) written with Next.js.
+
 Some of my favorite AI projects I've worked on are:
 
 - 👨‍💻 [smol-ai/menubar](https://github.com/smol-ai/menubar)
@@ -44,7 +46,4 @@ I've also built some end-to-end apps in various technologies:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=seanoliver&show_icons=true&hide_rank=true)
 
-[![Sean's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=seanoliver)](https://github.com/anuraghazra/github-readme-stats)
-
-[typescript]: https://www.typescriptlang.org/
-[github]: https://github.com/seanoliver
+![Sean's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=seanoliver)
