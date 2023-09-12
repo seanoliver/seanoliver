@@ -1,14 +1,14 @@
 # Hi there, I'm Sean 👋
 
-I'm a Software Engineer with a background in Marketing. I've been in the tech industry for 13 years and I'm currently working at [Smol AI](https://github.com/smol-ai/) as a Software Engineer.
+I'm a Software Engineer with a background in growth marketing. I've been in the tech industry for 13 years and I'm currently a Software Engineer at [Smol AI](https://github.com/smol-ai/) and [State Technologies](https://www.state.co/).
 
 I'm passionate about building software that helps people and makes a difference in the world. I think AI has the potential to change the world for the better and I'm excited to be a part of that change.
 
-Check out my 📫 [newsletter](https://newsletter.seanoliver.dev/) about my coding journey and my 🤩 [portfolio](https://seanoliver.dev/) written with Next.js.
+Check out my 📫 [newsletter](https://newsletter.seanoliver.dev/) about my coding journey and my 🤩 [blog](https://seanoliver.dev/) where I share snippets of things I've learned and examples of my work.
 
 Some of my favorite AI projects I've worked on are:
 
-- 👨‍💻 [smol-ai/menubar](https://github.com/smol-ai/menubar)
+- 👨‍💻 [smol-ai/GodMode](https://github.com/smol-ai/GodMode)
 - 💬 [smol-ai/talk](https://github.com/smol-ai/talk)
 - 🧘‍♂️ [seanoliver/thera-gpt](https://github.com/seanoliver/thera-gpt)
 
