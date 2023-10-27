@@ -11,6 +11,7 @@ Some of my favorite AI projects I've worked on are:
 - 👨‍💻 [smol-ai/GodMode](https://github.com/smol-ai/GodMode)
 - 💬 [smol-ai/talk](https://github.com/smol-ai/talk)
 - 🧘‍♂️ [seanoliver/thera-gpt](https://github.com/seanoliver/thera-gpt)
+- 🔈 [seanoliver/audioflare](https://github.com/seanoliver/audioflare)
 
 I've also built some end-to-end apps in various technologies:
 
