@@ -1,24 +1,29 @@
-# Hi there, I'm Sean 👋
+# 👋 Hey, I’m Sean
 
-I'm a Software Engineer with a background in growth. I've been in the tech industry for over a decade, and I'm currently a Software Engineer at [Gamma](https://gamma.app/).
+I’m an indie builder, software tinkerer, and product-minded maker based in San Francisco. After a decade in tech as a product marketer, I’ve fully leaned into building things myself—apps, tools, workflows, and ideas—sharing the process as I go.
 
-I'm passionate about building software that helps people and makes a difference in the world. I think AI has the potential to change the world for the better and I'm excited to be a part of that change.
+Right now, I'm especially interested in:
+- ✍️ Tools for self-reflection and intentional living  
+- 🤖 AI-assisted creativity and development  
+- ⚛️ Cross-platform apps with React Native + Expo  
+- 🧠 Building fast without losing sight of design quality
 
-Check out my 📫 [newsletter](https://newsletter.seanoliver.dev/) about my coding journey and my 🤩 [blog](https://seanoliver.dev/) where I share snippets of things I've learned and examples of my work.
+I'm learning in public through my newsletter **[Sean is Building](https://newsletter.seanoliver.dev/)** and sharing project writeups, thoughts, and experiments at **[seanoliver.dev](https://seanoliver.dev/)**.
 
-Some of my favorite AI projects I've worked on are:
+---
 
-- 👨‍💻 [smol-ai/GodMode](https://github.com/smol-ai/GodMode)
-- 💬 [smol-ai/talk](https://github.com/smol-ai/talk)
-- 🧘‍♂️ [seanoliver/thera-gpt](https://github.com/seanoliver/thera-gpt)
-- 🔈 [seanoliver/audioflare](https://github.com/seanoliver/audioflare)
+## 🛠️ Open Source Projects
 
-I've also built some end-to-end apps in various technologies:
+Some favorite things I’ve built, prototyped, or contributed to recently:
 
-- 💼 [seanoliver/react-jobly](https://github.com/seanoliver/react-jobly)
-- 🐦 [seanoliver/warbler](https://github.com/seanoliver/warbler)
+- 💬 [**smol-ai/talk**](https://github.com/smol-ai/talk): Local LLM chat with real-time web search
+- 👨‍💻 [**smol-ai/GodMode**](https://github.com/smol-ai/GodMode): AI agents and workflows in your browser
+- 🔈 [**audioflare**](https://github.com/seanoliver/audioflare): Turn any blog post or article into spoken audio
+- 🧠 [**thera-gpt**](https://github.com/seanoliver/thera-gpt): AI-powered cognitive behavioral therapy tool
 
-### Languages and Tools:
+---
+
+## 🧰 Tech I Work With
 
 ![TypeScript](/images/typescript.svg)
 ![JavaScript](/images/javascript.svg)
@@ -40,11 +45,12 @@ I've also built some end-to-end apps in various technologies:
 ![Warp](/images/warp.svg)
 ![VS Code](/images/visualstudiocode.svg)
 
-<br />
-<br />
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=seanoliver&show_icons=true&hide_rank=true)
+![Sean's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=seanoliver)
 
 ---
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=seanoliver&show_icons=true&hide_rank=true)
-
-![Sean's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=seanoliver)
+> Always building, always learning.  
+> Let’s make useful things.  
