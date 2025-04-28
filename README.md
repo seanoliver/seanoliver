@@ -20,7 +20,7 @@ Some favorite things I've built, contributed to, or am iterating on:
 - 🧠 [**smol-ai/GodMode**](https://github.com/smol-ai/GodMode): AI agents and workflows in your browser  
 - 🔈 [**audioflare**](https://github.com/seanoliver/audioflare): AI voice journaling app built with Next.js and Cloudflare Workers  
 - 💬 [**thera-gpt**](https://github.com/seanoliver/thera-gpt): AI-powered cognitive behavioral therapy tool  
-- ✍️ [**still**](https://seanoliver.dev/still) *(coming soon)*: Personal manifesto and affirmation app, AI-enhanced for daily reflection  
+- ✍️ **still** *(coming soon)*: Personal manifesto and affirmation app, AI-enhanced for daily reflection  
 
 ---
 
