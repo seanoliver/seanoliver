@@ -16,8 +16,8 @@ I document my projects, ideas, and experiments in my newsletter **[Sean is Build
 
 Some favorite things I've built, contributed to, or am iterating on:
 
+- 📓 [**theragpt-app**](https://github.com/seanoliver/theragpt-app): AI-powered cognitive behavioral therapy journal
 - 🔈 [**audioflare**](https://github.com/seanoliver/audioflare): AI voice journaling app built with Next.js and Cloudflare Workers  
-- 💬 [**theragpt-app**](https://github.com/seanoliver/theragpt-app): AI-powered cognitive behavioral therapy tool
 - 🧠 [**smol-ai/GodMode**](https://github.com/smol-ai/GodMode): AI agents and workflows in your browser  
 - 💬 [**smol-ai/talk**](https://github.com/smol-ai/talk): Local LLM chat with real-time web search
 
