@@ -1,9 +1,9 @@
 # 👋 Hey, I’m Sean
 
-I’m a frontend-focused software engineer and AI builder based in San Francisco. After a decade in tech at companies like LinkedIn, Lyft, and Square, I transitioned from product marketing into full-time software development — building AI-powered applications, cross-platform tools, and thoughtful user experiences.
+I’m a frontend-focused software engineer and AI builder at **Supabase**, working on **growth and activation**. I’ve spent over a decade building and scaling products across companies like LinkedIn, Lyft, and Square — blending product thinking, UX, and engineering to drive impact.
 
-Right now, I'm especially focused on:
-- 🧠 Designing seamless human-AI interactions for real-world use cases  
+Right now, I’m especially focused on:
+- 🧠 Designing seamless human–AI interactions for real-world use cases  
 - ⚛️ Building performant, polished UIs with React, Next.js, and React Native  
 - 🛠️ Shipping indie products and open-source tools that blend utility with great UX  
 - 🚀 Learning fast, iterating publicly, and sharing the journey
