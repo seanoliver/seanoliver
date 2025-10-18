@@ -10,8 +10,6 @@ Right now, I’m especially focused on:
 
 I document my projects, ideas, and experiments in my newsletter **[Sean is Building](https://newsletter.seanoliver.dev/)** and at **[seanoliver.dev](https://seanoliver.dev/)**.
 
----
-
 ## 🛠️ Open Source + Indie Projects
 
 Some favorite things I've built, contributed to, or am iterating on:
@@ -20,8 +18,6 @@ Some favorite things I've built, contributed to, or am iterating on:
 - [**audioflare**](https://github.com/seanoliver/audioflare): AI voice journaling app built with Next.js and Cloudflare Workers  
 - [**smol-ai/GodMode**](https://github.com/smol-ai/GodMode): AI agents and workflows in your browser  
 - [**smol-ai/talk**](https://github.com/smol-ai/talk): Local LLM chat with real-time web search
-
----
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=seanoliver&show_icons=true&hide_rank=true)  
 ![Sean's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=seanoliver)
